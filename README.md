@@ -34,6 +34,7 @@ dateline int(11)
 introduce，2字段，
 about varchar(255)，NULL
 contact varchar(255),NULL
+
 测试环境
 PHP5.6
 MySQL5.7
